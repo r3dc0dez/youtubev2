@@ -13,7 +13,7 @@
 
   YouTube v2 is a fully responsive video player that lets you watch videos without ads or account requirements, <br />Responsive for all devices, build using PYTHON, HTML, CSS, and JavaScript.
 
-  <a href="https://youtubev2-tau.vercel.app/templates/index.html" target="_blank"><strong>➥ Live Demo</strong></a>
+  <a href="https://youtubev2-tau.vercel.app/templates/index.html" target="_blank_"><strong>➥ Live Demo</strong></a>
 
 </div>
 
